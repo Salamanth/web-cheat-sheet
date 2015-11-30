@@ -1,7 +1,7 @@
 # Sublime Text Plugins
 
 
-## ASCII Decorator
+## [ASCII Decorator](https://github.com/viisual/ASCII-Decorator)
 
 **Description** : Permet de créer des blocs de texte ASCII pour plus de lisibilité.
 
@@ -19,7 +19,7 @@
 ```
 
 
-## DockBlockr
+## [DockBlockr](https://github.com/Warin/Sublime/tree/master/DocBlockr)
 
 **Description** : Crée un block de commentaire au dessus d'une fonction en php, js, ... Exemple :
 
@@ -35,7 +35,7 @@
 **Installation** : Via Package control `Preferences > Package Control`, puis `Package Control: Install Package`.
 
 
-## CodeFormatter
+## [CodeFormatter](https://github.com/akalongman/sublimetext-codeformatter)
 
 **Description** : Nettoie et organise le code aux normes. Fonctionne pour PHP, JS, CSS, HTML, Python. Ne fonctionne pas encore pour Blade.
 
@@ -45,7 +45,7 @@
 
 
 
-## SassBeautify
+## [SassBeautify](https://github.com/badsyntax/SassBeautify)
 
 **Description** : Nettoie et organise le code SASS. Il faudrait réflechir à une éventuelle inclusion dans `CodeFormatter`.
 
