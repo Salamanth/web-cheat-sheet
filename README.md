@@ -1,4 +1,4 @@
-# Plugin Sublime Text
+# Sublime Text Plugins
 
 
 ## ASCII Decorator
