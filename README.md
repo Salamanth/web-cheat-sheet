@@ -11,11 +11,8 @@
 * Installer la police Univers
 * Code à placer dans le fichier de préférences utilisateur : `Preferences > Package Setting > ASCII Decorator > Setting User` :
 
-```
-{
-    /* Default name of the font file to use. */
-    "ascii_decorator_font": "univers",
-}
+```json
+"ascii_decorator_font": "univers",
 ```
 
 
@@ -23,7 +20,7 @@
 
 **Description** : Crée un block de commentaire au dessus d'une fonction en php, js, ... Exemple :
 
-```
+```php
 /**
  * [function description]
  * @return [type] [description]
@@ -63,8 +60,6 @@
 **Installation** : 
 Code à placer dans le fichier de préférences utilisateur : `Preferences > Settings - User` :
 
-```
-{
-	"trim_trailing_white_space_on_save": true,
-}
+```json
+"trim_trailing_white_space_on_save": true,
 ```
