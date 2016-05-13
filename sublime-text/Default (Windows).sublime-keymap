@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+alt+d"], "command": "duplicate_line" },
+	{ "keys": ["ctrl+alt+f"], "command": "code_formatter" },
+	{ "keys": ["f1"], "command": "dumpman" },
+]
