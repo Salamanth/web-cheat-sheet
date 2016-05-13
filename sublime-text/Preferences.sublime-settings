@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"EditorConfig",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
