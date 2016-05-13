@@ -1,0 +1,5 @@
+cmd /k "%ConEmuDir%\..\init.bat"  -new_console:d:%USERPROFILE% -new_console:d:C:\Homestead
+
+cmd /k "%ConEmuDir%\..\init.bat" -cur_console:s66H -new_console:d:%USERPROFILE% -new_console:d:C:\Homestead
+
+cmd /k "%ConEmuDir%\..\init.bat" -cur_console:s50H -new_console:d:%USERPROFILE% -new_console:d:C:\Homestead
