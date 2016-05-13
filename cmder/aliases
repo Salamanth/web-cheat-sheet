@@ -1,0 +1,24 @@
+e.=explorer .
+gl=git log --oneline --all --graph --decorate  $*
+ls=ls --show-control-chars -F --color $*
+pwd=cd
+clear=cls
+history=cat %CMDER_ROOT%\config\.history
+unalias=alias /d $1
+
+
+pj=cd /projets
+hs=cd /homestead/ && vagrant $*
+api=cd /projets/inscription-numerique/api'
+metier=cd /projets/inscription-numerique/metier
+hosts=sublime_text.exe \Windows\System32\drivers\etc\hosts
+
+nup=cd /projets/inscription-numerique/socketio && node server-dev.js
+
+vup=cd /Homestead/ && vagrant up
+vssh=cd /Homestead/ && vagrant ssh
+vupssh=cd /Homestead/ && vagrant up && vagrant ssh
+vp=cd /Homestead/ && vagrant provision
+vpssh=cd /Homestead && vagrant provision && vagrant ssh
+
+subl=sublime_text.exe $*
