@@ -4,6 +4,7 @@ alias ...="cd ../.."
 alias h='cd ~'
 alias c='clear'
 alias artisan='php artisan'
+alias pj='cd /home/vagrant/Code'
 alias vclear='cd /var/www/inscription-numerique/api && composer dump-autoload && php artisan migrate:refresh --seed && php artisan cache:clear'
 alias api='cd /var/www/inscription-numerique/api'
 alias metier='cd /var/www/inscription-numerique/metier'
