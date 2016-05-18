@@ -1,14 +1,14 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"font_size": 9,
 	"ignored_packages":
 	[
 		"EditorConfig",
 		"Vintage"
 	],
+	"font_size": 9,
 	"tab_size": 4,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"theme": "Material-Theme.sublime-theme",
+	"word_wrap": true,
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"trim_trailing_white_space_on_save": true
 }
