@@ -12,6 +12,7 @@ Original
 - `ctrl + f2` : add marker to the line
 - `f2` : go to next marker
 - `ctrl + shift + f2` : clear markers
+- select multiple lines + `f9` : order lines alphabetically
 
 Custom
 -----
