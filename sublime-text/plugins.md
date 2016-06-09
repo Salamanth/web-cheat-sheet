@@ -8,4 +8,4 @@ Plugins
 
 Themes
 -----
-- [Material Theme](https://equinusocio.github.io/material-theme) `ctrl + alt + d` : duplicate
+- [Material Theme](https://equinusocio.github.io/material-theme)
