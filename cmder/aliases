@@ -22,3 +22,5 @@ vp=cd /Homestead/ && vagrant provision
 vpssh=cd /Homestead && vagrant provision && vagrant ssh
 
 subl=sublime_text.exe $*
+
+up=D: && cd D:\Repositories\frontend-pdo && gulp watch
