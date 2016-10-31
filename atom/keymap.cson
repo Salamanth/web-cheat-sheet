@@ -32,5 +32,4 @@
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
 'atom-workspace atom-text-editor:not([mini])':
   'ctrl-alt-d': 'editor:duplicate-lines'
-'atom-workspace atom-text-editor:not([mini])':
   'ctrl-q': 'editor:toggle-line-comments'
