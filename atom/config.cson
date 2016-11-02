@@ -1,0 +1,29 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "f2c8c8c1-51e1-48a7-b6fc-19be3f13b00f"
+    scss:
+      default_beautifier: "SassConvert"
+  "atom-material-ui":
+    colors: {}
+    tabs:
+      compactTabs: true
+      tintedTabBar: true
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 12
+    tabLength: 4
+    tabType: "soft"
+    softWrap: true
+  "exception-reporting":
+    userId: "24c742a1-0d6d-ee3d-bd8a-11c17035d889"
+  minimap: {}
