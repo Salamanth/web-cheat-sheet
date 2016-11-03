@@ -1,7 +1,6 @@
 Packages
 ----
 - [atom-beautify](https://atom.io/packages/atom-beautify)
-- [autoclose-html](https://atom.io/packages/autoclose-html)
 - [emmet](https://atom.io/packages/emmet)
 - [file-icons](https://atom.io/packages/file-icons)
 - [highlight-selected](https://atom.io/packages/highlight-selected)
