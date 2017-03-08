@@ -1,6 +1,7 @@
 Packages
 ----
 - [atom-beautify](https://atom.io/packages/atom-beautify)
+- [console-log](https://atom.io/packages/console-log)
 - [emmet](https://atom.io/packages/emmet)
 - [file-icons](https://atom.io/packages/file-icons)
 - [highlight-selected](https://atom.io/packages/highlight-selected)
