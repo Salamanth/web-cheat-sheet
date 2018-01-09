@@ -34,3 +34,5 @@
   'ctrl-alt-x': 'editor:delete-line'
   'ctrl-alt-d': 'editor:duplicate-lines'
   'ctrl-q': 'editor:toggle-line-comments'
+'atom-text-editor[data-grammar="text html twig"]:not([mini])':
+    'tab': 'emmet:expand-abbreviation-with-tab'
